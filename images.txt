@@ -5,6 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #office官网源码镜像
-documentserver-builder:v8.0.1
+onlyoffice/documentserver-builder:v8.0.1
 #office部署环境所需镜像
 documentserver-base-environment:v8.0.1
